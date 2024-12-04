@@ -1,0 +1,1 @@
+Our team, 'The Squad', developed a data-driven narrative using Statistics Canada datasets to create a compelling, human-centered story that addressed specific research questions titled 'Canadian Immigration'.
