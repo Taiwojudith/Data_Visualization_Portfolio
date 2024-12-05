@@ -1,1 +1,8 @@
-I designed a persuasive infographic around a topical theme around health trends across Canada using canvas
+Title of the project: Health Trends Across Canada
+
+Objectives: To analyze health trends in Canada and uncover regional disparities.
+
+Tools Used: Tableau, Microsoft Excel, Canvas
+
+Results: Created a dashboard highlighting Ontario, Quebec, and BC as key regions with the highest health indicator values. This informed stakeholders about resource allocation.
+
