@@ -16,7 +16,7 @@ Dedicated to continuous learning in data analytics, visualization tools, and bus
 
      A collection of my data analytics projects, showcasing analysis done with statistical modeling and machine learning techniques.
 
--Tools used for the projects
+-Tools used for the Projects
 
  1)R studio
  
